@@ -1,0 +1,15 @@
+X:\Mark J. Price .NET 6 and C# 10\Chapter03\SelectionStatements\bin\Debug\net6.0\SelectionStatements.exe
+X:\Mark J. Price .NET 6 and C# 10\Chapter03\SelectionStatements\bin\Debug\net6.0\SelectionStatements.deps.json
+X:\Mark J. Price .NET 6 and C# 10\Chapter03\SelectionStatements\bin\Debug\net6.0\SelectionStatements.runtimeconfig.json
+X:\Mark J. Price .NET 6 and C# 10\Chapter03\SelectionStatements\bin\Debug\net6.0\SelectionStatements.dll
+X:\Mark J. Price .NET 6 and C# 10\Chapter03\SelectionStatements\bin\Debug\net6.0\ref\SelectionStatements.dll
+X:\Mark J. Price .NET 6 and C# 10\Chapter03\SelectionStatements\bin\Debug\net6.0\SelectionStatements.pdb
+X:\Mark J. Price .NET 6 and C# 10\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.csproj.AssemblyReference.cache
+X:\Mark J. Price .NET 6 and C# 10\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.GeneratedMSBuildEditorConfig.editorconfig
+X:\Mark J. Price .NET 6 and C# 10\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.AssemblyInfoInputs.cache
+X:\Mark J. Price .NET 6 and C# 10\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.AssemblyInfo.cs
+X:\Mark J. Price .NET 6 and C# 10\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.csproj.CoreCompileInputs.cache
+X:\Mark J. Price .NET 6 and C# 10\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.dll
+X:\Mark J. Price .NET 6 and C# 10\Chapter03\SelectionStatements\obj\Debug\net6.0\ref\SelectionStatements.dll
+X:\Mark J. Price .NET 6 and C# 10\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.pdb
+X:\Mark J. Price .NET 6 and C# 10\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.genruntimeconfig.cache
